@@ -1,0 +1,13 @@
+name: Keycards
+version: 1.0
+main: nl.bamischrijft.keycards.Main
+author: BamiSchijf
+description: Keycards Plugin By BamiSchijf
+
+commands:
+  keycard:
+    usage: /<command> <player> [uses]
+    aliases: [card]
+  keycardreader:
+    usage: /<command> krijg
+    aliases: [kcr, cardreader]
